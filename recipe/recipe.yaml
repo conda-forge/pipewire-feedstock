@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.6.11"
+  version: "1.6.12"
 
 package:
   name: pipewire
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/${{ version }}/pipewire-${{ version }}.tar.gz
-  sha256: f3f70c4af173cc93d05070a9d412efe3ef5889bdf4ac32298e2c0d9ae1350559
+  sha256: 73dd5d5c7e67993d33de0930df5189bd5cb8883d8e3c81ab7866b1370f029eb3
 
 build:
   number: 0
