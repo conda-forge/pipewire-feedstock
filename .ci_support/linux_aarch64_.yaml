@@ -20,6 +20,8 @@ dbus:
 - '1'
 docker_image:
 - quay.io/condaforge/linux-anvil-aarch64:alma10
+gettext:
+- '0.25'
 target_platform:
 - linux-aarch64
 zip_keys:
